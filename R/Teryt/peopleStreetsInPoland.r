@@ -1,5 +1,5 @@
-#this script is reading Teryt data set containg imformation about Polish administrative division
-#It also generates list of most popular "poeple" in polish streets names for every voivoidship
+#this script is reading Teryt data set containg information about Polish administrative division up to streets
+#It also generates list of most popular people in polish streets names for every voivoideship
 #It requires ULIX.xml that contains information about all streets in poland
 #I took it from http://www.stat.gov.pl/broker/access/prefile/listPreFiles.jspa (ULIC file)
 require(XML)
