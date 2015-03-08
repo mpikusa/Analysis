@@ -31,7 +31,7 @@ wojewodztwa <- read.csv("woj.csv", encoding = "UTF-8", colClasses=c("character",
 #list of people
 people <- readLines("people.csv")
 
-#now we would like to check which people are the most popular in different voivoidships
+#now we would like to check which people are the most popular in different voivoideships
 
 
 splitedPeopleStreets <- split(peopleStreets, peopleStreets$WOJ);
